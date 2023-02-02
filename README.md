@@ -14,14 +14,14 @@ code execution steps:
 2 for every college name 
   do
   
-   a send search request to indcareer
+          a send search request to indcareer
    
-   b check and find college specific webpage link
+          b check and find college specific webpage link
    
-   c send request to that link
+          c send request to that link
    
-   d Scrape addres from this webpage
+          d Scrape addres from this webpage
    
-   e return address value
+          e return address value
    
 3 save the address values into excel file
